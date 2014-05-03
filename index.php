@@ -1,7 +1,7 @@
 <?php include "connection.php"; ?>
 <html>
 <head>
-<title>Lembaga Pengembangan PESPARAWI Nasional (LPPN)</title>
+<title>JURUSAN TEKNIK INFORMATIKA UNIVERSITAS TASIKMALAYA</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
@@ -23,10 +23,10 @@
         </tr>
         <tr>
           <td valign="top"><div align="justify">
-            <h2 align="center">SELAMAT DATANG DI SITUS LPPN<br>
-              SUKSESKAN PESPARAWI NASIONAL IX<br>
-              NOVEMBER 2009<br>
-              SAMARINDA – KALIMANTAN TIMUR </h2>
+            <h2 align="center">SELAMAT DATANG DI SITUS LAYANAN WEB<br>
+              TUGAS BESAR MATA KULIAH LAYANAN WEB<br>
+              UNIVERSITAS SILIWANGI<br>
+              TASIKMALAYA ï¿½ JAWA BARAT</h2>
             </div></td>
         </tr>
     </table></td>
